@@ -1,0 +1,5 @@
+# ninja log v5
+348	451	1772782317886203066	/Users/perlareyes/Downloads/Create-with-VR_U6/VR_Room_PRO/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/h1r4c4y6/obj/arm64-v8a/libswappywrapper.so	49424d48b69dbe67
+0	347	1772782317782432564	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	4d4f1a66003f542c
+1	550	1773810625027557004	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	4d4f1a66003f542c
+550	743	1773810625220774447	/Users/perlareyes/Downloads/Create-with-VR_U6/VR_Room_PRO/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/h1r4c4y6/obj/arm64-v8a/libswappywrapper.so	49424d48b69dbe67
